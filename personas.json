@@ -1,0 +1,60 @@
+{
+  "personas" : [
+    {
+      "nombre": "Carlos",
+      "apellido": "Mora",
+      "edad": 25,
+      "casado": true,
+      "direccion": [{
+              "provincia": "Cartago"
+          },
+          {
+              "calle": 12,
+              "avenida": 7
+          }
+      ]
+    },
+    {
+      "nombre": "Andres",
+      "apellido": "Gutierrez",
+      "edad": 18,
+      "casado": false,
+      "direccion": [{
+              "provincia": "San Jose"
+          },
+          {
+              "calle": 10,
+              "avenida": 4
+          }
+      ]
+    },
+    {
+      "nombre": "Mario",
+      "apellido": "Bross",
+      "edad": 29,
+      "casado": true,
+      "direccion": [{
+              "provincia": "Heredia"
+          },
+          {
+              "calle": 9,
+              "avenida": 11
+          }
+      ]
+    },
+    {
+      "nombre": "Sandra",
+      "apellido": "Lopez",
+      "edad": 30,
+      "casado": false,
+      "direccion": [{
+              "provincia": "Limón"
+          },
+          {
+              "calle": 12,
+              "avenida": 7
+          }
+      ]
+    }
+  ]
+}
